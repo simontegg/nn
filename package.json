@@ -10,9 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "JSONStream": "^0.9.0",
+    "array-matrix": "^1.0.0",
     "brain": "^0.7.0",
     "csv-parser": "^1.4.6",
     "csv-streamify": "^1.0.0",
-    "lodash": "^2.4.1"
+    "dnn": "^0.1.0",
+    "lodash": "^2.4.1",
+    "mallard": "^1.1.0",
+    "regression": "^1.2.0"
   }
 }
