@@ -1,4 +1,4 @@
-"country","year","poldis","ecdis"
+"row","country","year","poldis","ecdis"
 "1","USA",1940,-99,-99
 "2","USA",1945,-99,-99
 "3","USA",1950,-99,-99

@@ -17,6 +17,7 @@
     "dnn": "^0.1.0",
     "lodash": "^2.4.1",
     "mallard": "^1.1.0",
-    "regression": "^1.2.0"
+    "regression": "^1.2.0",
+    "request": "^2.44.0"
   }
 }
