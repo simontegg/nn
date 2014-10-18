@@ -12,12 +12,18 @@
     "JSONStream": "^0.9.0",
     "array-matrix": "^1.0.0",
     "brain": "^0.7.0",
+    "countries-list": "^1.0.3",
     "csv-parser": "^1.4.6",
     "csv-streamify": "^1.0.0",
     "dnn": "^0.1.0",
+    "event-stream": "^3.1.7",
+    "isarray": "0.0.1",
     "lodash": "^2.4.1",
     "mallard": "^1.1.0",
+    "pagination-stream": "^1.2.0",
     "regression": "^1.2.0",
-    "request": "^2.44.0"
+    "request": "^2.44.0",
+    "rest-collection-stream": "0.0.1",
+    "stream-filter": "^1.0.0"
   }
 }
