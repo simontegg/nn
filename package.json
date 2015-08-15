@@ -24,6 +24,7 @@
     "regression": "^1.2.0",
     "request": "^2.44.0",
     "rest-collection-stream": "0.0.1",
-    "stream-filter": "^1.0.0"
+    "stream-filter": "^1.0.0",
+    "twitter": "^1.2.5"
   }
 }
